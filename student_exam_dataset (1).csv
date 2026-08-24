@@ -1,0 +1,601 @@
+Student_ID,Gender,Parental_Education,Lunch_Type,Test_Prep,Extracurricular,Internet_Access,Study_Hours_Per_Day,Attendance_Percentage,Sleep_Hours,Math_Score,Reading_Score,Writing_Score,Average_Score,Result,Grade
+1000,Female,High School,Standard,None,No,Yes,3.7,82.8,6.4,77.2,74.1,62.4,71.2,Pass,B
+1001,Female,Some College,Free/Reduced,Completed,No,No,0.9,85.7,6.4,69.6,72.4,60.3,67.4,Pass,C
+1002,Male,Some College,Standard,Completed,No,Yes,4.2,89.2,6.3,58.0,75.1,69.8,67.6,Pass,C
+1003,Female,Bachelor's,Standard,None,Yes,Yes,4.0,67.9,4.5,89.6,80.7,70.9,80.4,Pass,A
+1004,Male,Bachelor's,Free/Reduced,None,No,Yes,6.2,100.0,9.4,87.9,87.8,76.7,84.1,Pass,A
+1005,Male,Bachelor's,Standard,Completed,Yes,Yes,4.6,76.4,6.1,62.2,82.3,77.0,73.8,Pass,B
+1006,Male,High School,Free/Reduced,None,Yes,No,2.5,77.1,5.0,41.6,45.2,50.1,45.6,Pass,E
+1007,Male,Bachelor's,Standard,Completed,No,Yes,3.8,100.0,7.7,98.0,96.9,91.5,95.5,Pass,A
+1008,Female,Associate's,Standard,None,Yes,Yes,5.6,80.1,5.0,96.2,100.0,91.1,95.8,Pass,A
+1009,Male,Associate's,Standard,None,No,No,4.4,77.2,6.1,58.9,74.6,68.0,67.2,Pass,C
+1010,Male,High School,Standard,None,Yes,Yes,0.0,77.5,8.5,61.3,60.8,41.4,54.5,Pass,D
+1011,Male,Some College,Standard,Completed,No,No,5.0,84.2,7.8,87.7,94.3,85.2,89.1,Pass,A
+1012,Female,Associate's,Standard,None,No,Yes,3.0,74.3,5.8,72.1,85.0,71.9,76.4,Pass,B
+1013,Male,Bachelor's,Standard,Completed,Yes,Yes,2.0,72.0,6.0,58.1,68.3,58.4,61.6,Pass,C
+1014,Male,High School,Standard,None,No,Yes,3.7,100.0,6.4,88.1,78.3,79.8,82.0,Pass,A
+1015,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,3.5,76.8,7.1,82.5,74.1,74.0,76.9,Pass,B
+1016,Female,Master's,Free/Reduced,None,No,No,0.6,90.9,4.2,57.9,57.3,50.9,55.4,Pass,D
+1017,Male,High School,Standard,Completed,No,Yes,5.3,94.5,6.7,85.7,91.7,87.3,88.2,Pass,A
+1018,Male,Bachelor's,Standard,None,No,Yes,2.1,80.9,8.3,68.0,65.0,50.0,61.0,Pass,C
+1019,Female,High School,Standard,None,Yes,Yes,8.4,90.9,6.4,92.9,95.8,94.5,94.4,Pass,A
+1020,Female,Bachelor's,Free/Reduced,Completed,No,Yes,6.1,80.1,7.3,89.4,95.6,86.9,90.6,Pass,A
+1021,Male,High School,Free/Reduced,Completed,Yes,Yes,5.1,70.0,8.9,78.2,83.0,79.7,80.3,Pass,A
+1022,Female,High School,Standard,Completed,No,Yes,1.2,78.9,6.6,58.7,76.9,64.5,66.7,Pass,C
+1023,Male,Some College,Free/Reduced,None,Yes,No,0.0,80.3,5.5,52.2,58.9,51.3,54.1,Pass,D
+1024,Male,Some College,Free/Reduced,None,No,No,0.0,94.8,6.4,51.1,73.1,65.6,63.3,Pass,C
+1025,Female,High School,Free/Reduced,None,No,No,0.4,76.6,5.8,42.9,42.9,40.9,42.2,Pass,E
+1026,Female,Bachelor's,Standard,Completed,No,No,4.1,,6.8,80.4,78.5,77.5,78.8,Pass,B
+1027,Male,Bachelor's,Standard,None,Yes,No,5.2,69.1,7.1,81.5,85.0,88.8,85.1,Pass,A
+1028,Female,Associate's,Standard,None,Yes,Yes,3.3,85.0,7.5,75.4,75.7,72.6,74.6,Pass,B
+1029,Female,Some College,Standard,None,Yes,Yes,6.2,82.8,7.3,66.0,81.4,78.8,75.4,Pass,B
+1030,Female,High School,Standard,None,Yes,Yes,9.8,84.8,7.9,91.0,90.0,72.7,84.6,Pass,A
+1031,Male,Some College,Standard,Completed,No,Yes,5.3,100.0,5.8,100.0,100.0,96.3,98.8,Pass,A
+1032,Female,Associate's,Standard,None,Yes,Yes,7.7,100.0,5.4,80.3,86.7,97.8,88.3,Pass,A
+1033,Male,High School,Standard,Completed,Yes,No,5.9,83.5,7.1,75.9,62.2,66.2,68.1,Pass,C
+1034,Male,Bachelor's,Standard,None,No,No,5.0,85.8,5.7,81.6,78.9,75.7,78.7,Pass,B
+1035,Female,Associate's,Standard,Completed,No,Yes,2.8,84.3,6.6,78.5,83.2,81.9,81.2,Pass,A
+1036,Male,Bachelor's,Standard,Completed,Yes,Yes,4.8,79.4,4.6,64.1,89.0,62.6,71.9,Pass,B
+1037,Female,Bachelor's,Standard,Completed,No,Yes,1.9,84.2,6.4,76.1,76.0,73.0,75.0,Pass,B
+1038,Male,Some College,Standard,None,No,Yes,4.2,87.6,7.0,81.3,82.7,63.7,75.9,Pass,B
+1039,Male,Some College,Standard,Completed,Yes,Yes,4.4,89.9,3.2,70.6,83.7,72.5,75.6,Pass,B
+1040,Female,Bachelor's,Free/Reduced,Completed,No,No,7.8,76.4,6.1,73.7,78.4,84.2,78.8,Pass,B
+1041,Female,Associate's,Standard,None,No,Yes,5.0,88.9,7.7,83.9,71.7,75.6,77.0,Pass,B
+1042,Male,High School,Standard,Completed,Yes,Yes,2.6,100.0,6.4,78.7,88.0,72.4,79.7,Pass,B
+1043,Female,Bachelor's,Standard,Completed,No,Yes,7.2,86.0,5.7,98.5,100.0,98.7,99.1,Pass,A
+1044,Female,High School,Standard,Completed,Yes,Yes,5.8,80.0,6.4,86.3,99.8,90.5,92.2,Pass,A
+1045,Male,Some College,Standard,None,Yes,Yes,4.4,77.1,5.2,82.3,76.3,63.5,74.1,Pass,B
+1046,Female,Associate's,Free/Reduced,Completed,Yes,Yes,3.8,80.5,6.8,79.5,89.3,80.2,83.0,Pass,A
+1047,Female,High School,Standard,None,No,Yes,4.2,76.2,4.5,50.0,73.6,57.5,60.4,Pass,C
+1048,Male,High School,Standard,None,No,No,3.6,89.9,9.1,70.6,82.5,70.7,74.6,Pass,B
+1049,Male,Some College,Free/Reduced,None,No,Yes,3.5,82.5,7.4,61.5,68.8,78.3,69.5,Pass,C
+1050,Female,High School,Free/Reduced,Completed,No,Yes,8.0,,5.6,66.8,78.2,77.8,74.3,Pass,B
+1051,Male,Bachelor's,Standard,None,No,Yes,5.0,90.7,4.3,76.7,84.3,68.9,76.7,Pass,B
+1052,Male,Bachelor's,Free/Reduced,Completed,No,No,10.5,100.0,6.5,100.0,100.0,100.0,100.0,Pass,A
+1053,Female,Master's,Standard,Completed,No,Yes,6.0,97.7,4.3,92.5,93.4,84.5,90.1,Pass,A
+1054,Female,Bachelor's,Standard,None,Yes,Yes,4.1,92.7,5.9,72.7,63.3,58.4,64.8,Pass,C
+1055,Male,Bachelor's,Standard,None,Yes,Yes,3.7,89.6,5.3,95.9,88.6,95.3,93.3,Pass,A
+1056,Male,Bachelor's,Standard,Completed,Yes,No,7.1,100.0,6.0,97.4,86.1,73.8,85.8,Pass,A
+1057,Female,High School,Standard,Completed,No,No,3.4,92.7,8.2,92.3,78.6,75.0,81.9,Pass,A
+1058,Male,High School,Standard,None,No,Yes,7.8,81.3,8.7,91.3,87.6,91.1,90.0,Pass,A
+1059,Female,Bachelor's,Standard,Completed,Yes,Yes,0.5,80.3,7.5,73.4,80.3,70.6,74.8,Pass,B
+1060,Female,Bachelor's,Free/Reduced,None,No,Yes,8.2,63.7,4.5,80.6,100.0,93.7,91.4,Pass,A
+1061,Male,Bachelor's,Free/Reduced,Completed,Yes,Yes,7.3,97.7,4.2,95.3,98.3,99.2,97.6,Pass,A
+1062,Female,Associate's,Standard,Completed,No,Yes,7.4,73.0,5.8,96.4,89.0,100.0,95.2,Pass,A
+1063,Female,Master's,Standard,Completed,Yes,Yes,0.8,83.9,5.6,65.7,80.3,70.1,72.1,Pass,B
+1064,Female,Some College,Standard,None,Yes,No,1.4,77.4,5.8,56.2,61.4,46.7,54.8,Pass,D
+1065,Female,Bachelor's,Standard,None,No,Yes,5.0,98.6,6.1,72.4,76.3,76.0,74.9,Pass,B
+1066,Male,Master's,Standard,None,No,Yes,5.6,83.8,7.4,72.0,71.3,81.8,75.0,Pass,B
+1067,Female,Bachelor's,Standard,Completed,No,No,3.6,87.7,4.7,84.2,78.9,83.8,82.3,Pass,A
+1068,Female,Some College,Standard,None,No,Yes,3.1,70.7,6.4,67.9,74.8,64.2,69.0,Pass,C
+1069,Female,High School,Standard,None,Yes,No,6.6,90.8,6.1,89.9,85.0,79.7,84.9,Pass,A
+1070,Male,Associate's,Standard,None,No,Yes,2.9,93.3,4.6,59.2,67.6,55.9,60.9,Pass,C
+1071,Female,Associate's,Free/Reduced,Completed,No,Yes,7.2,87.3,8.0,85.7,100.0,86.2,90.6,Pass,A
+1072,Female,High School,Free/Reduced,Completed,No,Yes,6.0,78.0,7.1,76.2,82.6,81.9,80.2,Pass,A
+1073,Male,High School,Standard,None,No,No,3.3,83.1,6.7,89.5,84.6,67.7,80.6,Pass,A
+1074,Male,Some College,Standard,Completed,No,No,4.8,84.1,4.3,72.1,86.5,79.7,79.4,Pass,B
+1075,Female,Some College,Standard,None,Yes,Yes,0.4,93.6,6.8,45.0,52.2,52.2,49.8,Pass,E
+1076,Male,Bachelor's,Standard,None,No,Yes,5.0,80.8,8.0,69.0,75.9,64.0,69.6,Pass,C
+1077,Male,Some College,Standard,None,No,Yes,6.1,83.4,5.7,87.4,81.2,78.9,82.5,Pass,A
+1078,Male,Associate's,Standard,Completed,No,Yes,5.1,97.4,7.2,86.0,92.8,76.3,85.0,Pass,A
+1079,Female,High School,Standard,None,No,Yes,4.3,77.7,6.1,62.5,64.5,70.8,65.9,Pass,C
+1080,Male,Bachelor's,Standard,Completed,No,Yes,4.7,88.6,8.9,100.0,100.0,93.8,97.9,Pass,A
+1081,Male,Master's,Standard,Completed,Yes,Yes,4.9,90.2,9.2,94.5,94.8,83.5,90.9,Pass,A
+1082,Male,Some College,Free/Reduced,None,Yes,Yes,4.5,91.5,7.3,77.1,75.9,78.1,77.0,Pass,B
+1083,Female,High School,Standard,None,Yes,Yes,6.1,92.7,9.2,92.3,92.8,88.3,91.1,Pass,A
+1084,Male,High School,Standard,Completed,Yes,No,4.7,85.2,7.9,93.2,98.9,100.0,97.4,Pass,A
+1085,Female,Some College,Free/Reduced,Completed,No,Yes,8.8,86.1,6.4,100.0,100.0,100.0,100.0,Pass,A
+1086,Male,Some College,Free/Reduced,Completed,Yes,Yes,2.1,81.6,6.3,43.0,58.6,56.6,52.7,Pass,D
+1087,Male,Master's,Free/Reduced,None,No,Yes,2.5,96.3,,70.1,83.9,79.1,77.7,Pass,B
+1088,Male,High School,Standard,None,No,No,6.6,86.5,5.8,74.1,83.9,81.3,79.8,Pass,B
+1089,Female,Some College,Free/Reduced,Completed,Yes,Yes,1.0,74.5,6.9,68.2,56.9,69.7,64.9,Pass,C
+1090,Male,High School,Standard,Completed,No,Yes,5.9,66.6,9.2,84.0,75.8,67.9,75.9,Pass,B
+1091,Female,High School,Standard,None,No,No,3.6,92.5,8.8,60.6,71.1,57.3,63.0,Pass,C
+1092,Female,High School,Free/Reduced,None,Yes,No,4.4,74.1,5.8,46.7,59.3,51.4,52.5,Pass,D
+1093,Female,Some College,Free/Reduced,Completed,No,No,6.2,100.0,7.6,100.0,89.5,93.2,94.2,Pass,A
+1094,Female,Associate's,Standard,None,No,Yes,3.7,95.9,7.3,79.4,75.1,82.8,79.1,Pass,B
+1095,Female,High School,Standard,Completed,Yes,Yes,4.1,72.5,5.7,70.0,63.4,68.9,67.4,Pass,C
+1096,Male,Master's,Free/Reduced,None,No,Yes,5.1,78.1,4.9,71.5,83.2,85.5,80.0,Pass,B
+1097,Female,Some College,Free/Reduced,None,No,Yes,3.4,85.2,5.7,74.4,68.5,65.0,69.3,Pass,C
+1098,Female,Associate's,Free/Reduced,Completed,Yes,No,4.9,100.0,7.0,82.5,82.5,75.4,80.1,Pass,A
+1099,Female,Bachelor's,Standard,None,Yes,Yes,2.4,99.7,8.8,74.1,89.9,66.6,76.9,Pass,B
+1100,Male,High School,Free/Reduced,Completed,No,Yes,4.7,92.8,6.9,94.7,98.1,86.3,93.0,Pass,A
+1101,Male,High School,Free/Reduced,Completed,No,Yes,0.8,98.1,5.0,60.5,71.9,70.6,67.6,Pass,C
+1102,Female,Some College,Free/Reduced,Completed,Yes,Yes,2.9,100.0,8.4,56.0,85.5,68.9,70.1,Pass,B
+1103,Female,Associate's,Standard,None,Yes,Yes,6.4,97.6,6.7,88.1,100.0,98.1,95.4,Pass,A
+1104,Male,High School,Standard,Completed,No,No,6.6,91.7,8.7,100.0,100.0,97.8,99.3,Pass,A
+1105,Male,Some College,Standard,Completed,Yes,Yes,1.7,100.0,4.6,81.1,82.5,82.8,82.2,Pass,A
+1106,Female,Master's,Free/Reduced,None,No,No,7.6,84.1,7.6,91.8,93.9,94.3,93.4,Pass,A
+1107,Male,Bachelor's,Standard,None,No,Yes,4.1,87.3,4.7,77.9,89.2,84.5,83.9,Pass,A
+1108,Male,High School,Free/Reduced,None,Yes,Yes,2.5,72.8,6.8,54.7,66.7,55.6,59.0,Pass,D
+1109,Male,Bachelor's,Standard,None,No,Yes,7.2,97.2,7.1,89.0,89.2,80.2,86.2,Pass,A
+1110,Male,Bachelor's,Free/Reduced,None,No,No,4.6,94.0,6.5,68.1,78.4,57.8,68.1,Pass,C
+1111,Female,Master's,Free/Reduced,None,Yes,Yes,2.4,99.9,8.1,82.3,86.2,77.7,82.1,Pass,A
+1112,Male,Bachelor's,Standard,Completed,No,Yes,7.1,89.7,5.3,100.0,99.9,100.0,100.0,Pass,A
+1113,Female,Some College,Standard,None,No,Yes,1.1,87.6,7.6,67.7,79.0,70.1,72.3,Pass,B
+1114,Female,Master's,Standard,None,Yes,No,3.2,93.6,9.2,81.7,82.6,64.8,76.4,Pass,B
+1115,Female,High School,Free/Reduced,None,Yes,No,3.5,96.1,7.2,84.0,82.0,77.9,81.3,Pass,A
+1116,Female,Some College,Standard,None,No,Yes,0.0,82.9,7.5,53.0,53.1,41.6,49.2,Pass,E
+1117,Female,Bachelor's,Standard,Completed,No,Yes,0.8,98.3,4.5,78.1,80.7,69.8,76.2,Pass,B
+1118,Male,Associate's,Standard,None,No,Yes,6.4,69.8,5.7,90.4,98.6,86.0,91.7,Pass,A
+1119,Male,High School,Standard,Completed,No,Yes,3.5,92.4,4.7,69.0,91.0,74.9,78.3,Pass,B
+1120,Female,Master's,Free/Reduced,None,No,No,0.0,80.3,6.1,63.9,60.0,66.7,63.5,Pass,C
+1121,Female,Bachelor's,Free/Reduced,None,No,Yes,5.6,100.0,6.7,71.6,86.4,60.8,72.9,Pass,B
+1122,Female,Associate's,Free/Reduced,Completed,Yes,Yes,6.0,100.0,8.3,93.5,91.6,93.6,92.9,Pass,A
+1123,Female,Some College,Free/Reduced,Completed,Yes,No,4.0,75.0,7.1,62.7,67.4,57.4,62.5,Pass,C
+1124,Male,High School,Standard,None,Yes,Yes,2.0,85.9,6.9,71.5,77.7,71.1,73.5,Pass,B
+1125,Male,Bachelor's,Standard,None,No,No,6.3,92.8,5.3,79.4,86.5,81.5,82.4,Pass,A
+1126,Female,Bachelor's,Standard,None,No,No,4.4,85.8,7.4,80.0,66.4,80.9,75.8,Pass,B
+1127,Male,Bachelor's,Standard,None,No,Yes,4.8,87.6,8.6,87.3,89.1,95.9,90.7,Pass,A
+1128,Male,Master's,Free/Reduced,None,No,No,0.1,96.7,6.1,60.9,82.2,63.9,69.0,Pass,C
+1129,Male,Some College,Standard,None,No,No,3.7,87.8,9.3,77.2,75.6,69.8,74.2,Pass,B
+1130,Male,High School,Free/Reduced,Completed,No,Yes,5.2,78.0,6.7,63.5,82.0,65.7,70.4,Pass,B
+1131,Male,Associate's,Standard,None,No,Yes,4.2,78.9,5.7,76.3,83.0,70.5,76.6,Pass,B
+1132,Female,Some College,Standard,Completed,No,Yes,3.8,99.2,5.5,99.7,78.2,75.2,84.4,Pass,A
+1133,Female,High School,Free/Reduced,None,No,Yes,2.8,71.8,6.5,61.9,61.7,63.3,62.3,Pass,C
+1134,Female,Associate's,Free/Reduced,None,Yes,Yes,2.2,79.1,9.6,77.1,59.8,62.9,66.6,Pass,C
+1135,Male,Master's,Standard,Completed,Yes,Yes,6.5,85.8,6.0,77.8,83.5,62.8,74.7,Pass,B
+1136,Male,Bachelor's,Free/Reduced,None,Yes,No,3.0,75.0,3.9,73.7,76.2,58.4,69.4,Pass,C
+1137,Female,Associate's,Standard,Completed,Yes,Yes,0.0,100.0,5.1,52.5,57.5,52.9,54.3,Pass,D
+1138,Female,Associate's,Standard,Completed,No,Yes,5.9,91.8,8.1,83.0,98.0,84.9,88.6,Pass,A
+1139,Male,High School,Standard,Completed,Yes,Yes,2.8,77.5,7.1,64.3,86.3,76.4,75.7,Pass,B
+1140,Female,High School,Free/Reduced,None,Yes,Yes,3.1,85.9,8.3,45.3,67.3,41.5,51.3,Pass,D
+1141,Male,Bachelor's,Free/Reduced,None,No,Yes,8.1,98.5,6.4,87.2,96.2,90.7,91.4,Pass,A
+1142,Male,Bachelor's,Free/Reduced,None,No,No,7.1,98.1,6.8,79.7,84.0,81.3,81.7,Pass,A
+1143,Male,High School,Free/Reduced,None,No,No,4.7,73.5,8.1,70.0,56.1,53.7,59.9,Pass,D
+1144,Male,High School,Standard,None,Yes,Yes,9.8,92.4,5.6,89.6,100.0,89.0,92.9,Pass,A
+1145,Male,High School,Free/Reduced,None,Yes,Yes,5.5,83.2,7.8,84.1,89.3,73.4,82.3,Pass,A
+1146,Female,High School,Standard,None,Yes,Yes,6.8,96.0,6.3,78.5,75.8,82.9,79.1,Pass,B
+1147,Male,Bachelor's,Free/Reduced,Completed,No,Yes,5.8,77.3,5.7,97.9,86.3,91.5,91.9,Pass,A
+1148,Male,High School,Free/Reduced,None,Yes,Yes,7.0,61.9,8.2,73.4,59.2,76.3,69.6,Pass,C
+1149,Male,Some College,Standard,None,Yes,Yes,5.3,75.9,,60.3,62.0,40.1,54.2,Pass,D
+1150,Female,High School,Standard,None,No,Yes,5.4,90.7,5.3,78.7,80.3,64.5,74.5,Pass,B
+1151,Male,High School,Free/Reduced,Completed,No,Yes,5.0,78.9,7.0,99.8,100.0,88.5,96.1,Pass,A
+1152,Male,Some College,Standard,None,No,Yes,9.0,79.9,7.8,89.5,97.1,89.2,91.9,Pass,A
+1153,Male,Associate's,Standard,Completed,Yes,Yes,6.9,83.4,5.6,100.0,100.0,100.0,100.0,Pass,A
+1154,Female,High School,Standard,None,No,No,2.8,,5.2,77.1,64.7,65.3,69.0,Pass,C
+1155,Female,Bachelor's,Standard,Completed,Yes,Yes,6.8,91.1,7.0,98.2,100.0,100.0,99.4,Pass,A
+1156,Male,Some College,Standard,None,No,Yes,2.7,90.6,7.2,54.3,61.5,46.7,54.2,Pass,D
+1157,Female,Bachelor's,Standard,Completed,Yes,Yes,3.4,82.3,7.9,76.7,73.2,73.0,74.3,Pass,B
+1158,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,3.9,66.9,5.4,77.8,77.9,78.2,78.0,Pass,B
+1159,Male,Some College,Free/Reduced,Completed,No,Yes,5.8,79.6,6.1,86.0,88.8,75.6,83.5,Pass,A
+1160,Female,Bachelor's,Standard,None,Yes,Yes,3.5,75.8,6.6,79.3,84.9,73.0,79.0,Pass,B
+1161,Female,Bachelor's,Free/Reduced,None,No,Yes,5.4,99.5,5.0,100.0,98.0,100.0,99.3,Pass,A
+1162,Female,Master's,Free/Reduced,None,Yes,Yes,1.8,83.7,6.7,65.2,79.5,60.2,68.3,Pass,C
+1163,Male,High School,Standard,None,Yes,Yes,3.4,86.3,8.7,67.0,55.3,55.5,59.3,Pass,D
+1164,Male,Associate's,Free/Reduced,Completed,No,Yes,5.7,78.3,4.8,95.0,94.3,96.7,95.3,Pass,A
+1165,Female,Some College,Standard,Completed,No,Yes,3.3,86.7,6.1,76.3,80.3,72.8,76.5,Pass,B
+1166,Male,High School,Standard,Completed,No,No,8.2,95.7,9.5,100.0,100.0,97.9,99.3,Pass,A
+1167,Male,Some College,Standard,None,No,Yes,2.8,98.4,6.5,69.7,77.3,60.0,69.0,Pass,C
+1168,Male,Bachelor's,Free/Reduced,Completed,No,Yes,6.4,98.4,8.1,100.0,100.0,100.0,100.0,Pass,A
+1169,Female,Associate's,Free/Reduced,None,Yes,Yes,5.2,77.7,8.3,80.3,90.0,84.4,84.9,Pass,A
+1170,Male,Bachelor's,Standard,None,No,Yes,2.9,76.1,7.7,70.5,76.3,73.6,73.5,Pass,B
+1171,Female,High School,Standard,Completed,No,Yes,2.4,80.5,6.7,94.1,98.4,94.9,95.8,Pass,A
+1172,Male,Associate's,Free/Reduced,None,No,Yes,6.9,93.7,8.7,85.1,89.2,100.0,91.4,Pass,A
+1173,Female,Associate's,Standard,Completed,Yes,Yes,8.4,94.6,5.8,100.0,100.0,94.9,98.3,Pass,A
+1174,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,3.3,100.0,7.0,78.2,83.0,90.4,83.9,Pass,A
+1175,Female,High School,Free/Reduced,Completed,Yes,Yes,3.7,82.8,8.0,83.9,88.6,74.0,82.2,Pass,A
+1176,Female,High School,Standard,Completed,No,Yes,6.0,,6.7,100.0,90.4,85.6,92.0,Pass,A
+1177,Female,Some College,Standard,Completed,Yes,Yes,8.6,93.0,5.6,100.0,99.7,100.0,99.9,Pass,A
+1178,Female,Master's,Standard,Completed,Yes,No,7.0,84.9,7.1,78.7,94.0,73.9,82.2,Pass,A
+1179,Female,Some College,Free/Reduced,Completed,No,Yes,5.0,81.9,8.1,100.0,92.1,79.9,90.7,Pass,A
+1180,Female,Associate's,Standard,Completed,No,Yes,8.3,100.0,6.4,100.0,100.0,100.0,100.0,Pass,A
+1181,Female,High School,Standard,None,Yes,Yes,6.5,92.9,6.6,95.3,89.5,84.9,89.9,Pass,A
+1182,Female,Associate's,Free/Reduced,None,No,Yes,8.5,90.1,7.3,69.5,77.8,84.8,77.4,Pass,B
+1183,Male,High School,Standard,None,No,Yes,8.8,95.6,5.0,94.5,97.8,89.9,94.1,Pass,A
+1184,Female,Bachelor's,Standard,Completed,Yes,Yes,6.6,56.4,7.4,67.0,77.0,62.5,68.9,Pass,C
+1185,Male,High School,Standard,None,No,Yes,2.4,97.5,9.5,71.2,80.3,75.6,75.7,Pass,B
+1186,Female,Bachelor's,Free/Reduced,None,No,No,2.8,77.0,8.1,55.1,63.6,69.2,62.7,Pass,C
+1187,Male,Some College,Free/Reduced,None,Yes,No,5.8,97.5,6.6,82.8,85.9,81.9,83.5,Pass,A
+1188,Female,Associate's,Standard,Completed,Yes,Yes,0.3,97.0,6.4,71.7,70.2,67.6,69.8,Pass,C
+1189,Female,Master's,Free/Reduced,None,No,Yes,7.8,92.3,8.0,75.6,85.4,80.3,80.4,Pass,A
+1190,Female,Some College,Standard,None,No,No,7.2,93.9,6.4,92.0,100.0,93.1,95.0,Pass,A
+1191,Male,High School,Standard,None,Yes,Yes,0.0,82.0,8.7,37.5,64.0,52.1,51.2,Pass,D
+1192,Male,Bachelor's,Standard,None,Yes,No,3.9,,6.1,72.2,83.5,75.2,77.0,Pass,B
+1193,Male,Master's,Standard,None,No,Yes,4.3,94.1,6.7,76.1,79.9,66.3,74.1,Pass,B
+1194,Male,Master's,Free/Reduced,None,No,Yes,1.5,100.0,5.9,50.5,65.5,67.5,61.2,Pass,C
+1195,Female,High School,Standard,None,No,Yes,5.2,100.0,7.7,74.1,75.0,78.2,75.7,Pass,B
+1196,Male,High School,Standard,None,No,Yes,4.3,85.1,9.5,59.3,66.1,57.3,60.9,Pass,C
+1197,Female,Bachelor's,Free/Reduced,None,Yes,Yes,2.6,83.0,4.1,61.1,65.8,69.0,65.3,Pass,C
+1198,Female,Bachelor's,Standard,Completed,No,No,4.6,87.9,4.7,84.1,83.3,85.3,84.2,Pass,A
+1199,Female,Bachelor's,Free/Reduced,None,No,No,5.5,95.0,8.6,68.8,67.4,60.6,65.6,Pass,C
+1200,Female,Bachelor's,Standard,None,Yes,Yes,3.0,92.4,6.8,86.1,87.5,66.5,80.0,Pass,B
+1201,Male,Bachelor's,Free/Reduced,Completed,Yes,Yes,5.6,79.1,8.4,75.6,80.6,75.7,77.3,Pass,B
+1202,Male,Some College,Free/Reduced,None,No,Yes,7.1,77.6,3.4,72.1,92.9,71.3,78.8,Pass,B
+1203,Male,Bachelor's,Free/Reduced,None,Yes,Yes,5.6,84.9,9.6,75.8,72.3,64.2,70.8,Pass,B
+1204,Male,Some College,Free/Reduced,None,No,Yes,3.4,80.8,6.7,68.1,67.2,73.3,69.5,Pass,C
+1205,Male,High School,Standard,None,No,Yes,6.2,100.0,7.8,74.2,79.2,59.6,71.0,Pass,B
+1206,Female,Associate's,Free/Reduced,None,No,Yes,4.7,85.0,10.0,88.8,93.7,78.1,86.8,Pass,A
+1207,Female,High School,Free/Reduced,Completed,No,No,1.2,78.4,9.6,63.8,62.0,65.4,63.8,Pass,C
+1208,Male,Bachelor's,Free/Reduced,None,No,Yes,5.8,88.8,4.7,77.7,94.3,82.6,84.9,Pass,A
+1209,Female,Some College,Standard,None,No,No,6.1,83.5,6.6,85.3,89.1,78.3,84.2,Pass,A
+1210,Male,Some College,Standard,None,No,Yes,6.5,85.1,6.7,81.7,77.2,71.9,76.9,Pass,B
+1211,Male,Some College,Free/Reduced,None,No,Yes,3.5,73.4,6.0,57.9,58.4,59.3,58.5,Pass,D
+1212,Female,Associate's,Standard,None,No,Yes,3.7,81.2,8.6,61.9,67.6,64.9,64.8,Pass,C
+1213,Male,Master's,Standard,None,No,Yes,7.9,81.2,7.2,89.6,81.9,85.0,85.5,Pass,A
+1214,Male,Associate's,Standard,Completed,No,No,2.6,84.9,4.9,88.2,80.7,76.4,81.8,Pass,A
+1215,Male,Some College,Standard,None,Yes,No,0.0,83.4,6.3,58.1,60.6,48.8,55.8,Pass,D
+1216,Male,Bachelor's,Standard,Completed,Yes,Yes,5.6,82.1,5.4,87.0,88.9,83.3,86.4,Pass,A
+1217,Female,Some College,Standard,Completed,Yes,Yes,4.6,100.0,7.8,100.0,100.0,100.0,100.0,Pass,A
+1218,Male,Some College,Standard,None,No,Yes,5.1,90.4,5.8,77.7,69.1,68.7,71.8,Pass,B
+1219,Male,High School,Free/Reduced,None,No,Yes,3.1,86.4,,55.2,46.0,47.3,49.5,Pass,E
+1220,Female,Bachelor's,Free/Reduced,None,No,No,5.1,86.6,7.1,74.3,74.9,67.4,72.2,Pass,B
+1221,Male,Master's,Standard,None,Yes,Yes,7.7,86.1,6.8,73.7,71.2,83.5,76.1,Pass,B
+1222,Female,High School,Standard,Completed,No,Yes,3.6,88.4,5.2,85.5,83.3,87.5,85.4,Pass,A
+1223,Female,Associate's,Free/Reduced,None,No,No,0.9,81.7,5.9,55.1,56.4,58.8,56.8,Pass,D
+1224,Female,Master's,Standard,None,No,Yes,6.0,96.5,6.9,100.0,100.0,97.5,99.2,Pass,A
+1225,Male,High School,Free/Reduced,None,No,Yes,7.7,87.6,5.1,87.2,83.7,76.8,82.6,Pass,A
+1226,Female,Associate's,Standard,None,No,Yes,4.0,91.0,6.3,64.1,65.9,75.3,68.4,Pass,C
+1227,Male,Some College,Free/Reduced,None,Yes,No,2.7,88.6,6.8,68.8,70.7,69.9,69.8,Pass,C
+1228,Female,Associate's,Standard,None,No,No,8.4,96.2,8.4,100.0,100.0,100.0,100.0,Pass,A
+1229,Female,Associate's,Free/Reduced,None,Yes,Yes,5.2,94.8,7.0,85.2,73.7,74.0,77.6,Pass,B
+1230,Female,Some College,Standard,None,No,No,0.0,86.1,7.5,39.1,52.0,59.8,50.3,Pass,D
+1231,Male,Master's,Free/Reduced,Completed,No,No,4.2,76.2,7.3,80.6,83.4,68.6,77.5,Pass,B
+1232,Male,High School,Standard,None,No,Yes,4.0,86.5,5.7,70.8,73.9,61.0,68.6,Pass,C
+1233,Male,Bachelor's,Standard,None,No,Yes,7.4,80.3,7.0,100.0,100.0,91.8,97.3,Pass,A
+1234,Female,High School,Free/Reduced,Completed,Yes,Yes,5.2,91.5,6.6,89.1,78.9,94.9,87.6,Pass,A
+1235,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,1.6,77.4,5.1,69.4,70.8,56.9,65.7,Pass,C
+1236,Female,High School,Standard,Completed,No,Yes,3.5,74.3,6.5,72.5,81.1,77.8,77.1,Pass,B
+1237,Male,Master's,Standard,None,Yes,No,5.7,77.7,6.3,83.1,93.0,93.1,89.8,Pass,A
+1238,Male,Associate's,Free/Reduced,None,No,Yes,7.2,87.3,6.8,81.2,82.3,74.8,79.4,Pass,B
+1239,Male,Bachelor's,Free/Reduced,Completed,No,No,4.4,80.0,3.0,89.4,76.5,68.2,78.0,Pass,B
+1240,Female,Associate's,Free/Reduced,None,Yes,No,0.6,85.4,7.2,57.8,48.3,49.1,51.7,Pass,D
+1241,Female,Master's,Free/Reduced,Completed,No,Yes,6.8,99.8,5.2,72.2,95.5,71.0,79.6,Pass,B
+1242,Female,High School,Standard,Completed,No,Yes,8.7,100.0,8.4,98.7,100.0,90.8,96.5,Pass,A
+1243,Male,Some College,Standard,Completed,No,Yes,4.5,71.1,6.5,84.6,95.6,76.0,85.4,Pass,A
+1244,Male,Bachelor's,Standard,Completed,Yes,No,2.9,79.6,6.3,82.9,88.6,85.0,85.5,Pass,A
+1245,Female,Master's,Free/Reduced,None,Yes,Yes,0.8,86.2,9.6,63.4,59.7,61.7,61.6,Pass,C
+1246,Male,High School,Standard,None,Yes,No,7.5,86.4,5.6,91.5,84.7,98.7,91.6,Pass,A
+1247,Male,Bachelor's,Standard,Completed,No,No,5.0,98.0,6.9,79.5,89.3,86.0,84.9,Pass,A
+1248,Female,Bachelor's,Free/Reduced,None,No,Yes,2.1,88.5,6.1,51.9,54.8,47.1,51.3,Pass,D
+1249,Male,High School,Standard,None,No,Yes,4.6,97.8,6.5,93.0,94.3,84.6,90.6,Pass,A
+1250,Male,Associate's,Standard,None,Yes,No,6.9,91.1,10.0,93.5,100.0,93.8,95.8,Pass,A
+1251,Male,High School,Standard,Completed,No,Yes,2.0,94.8,6.6,65.1,63.9,56.5,61.8,Pass,C
+1252,Male,High School,Standard,None,No,No,4.4,94.8,6.3,73.0,73.0,74.8,73.6,Pass,B
+1253,Male,Master's,Standard,None,Yes,Yes,4.2,65.1,5.2,71.3,80.9,85.1,79.1,Pass,B
+1254,Male,Bachelor's,Standard,Completed,Yes,Yes,5.5,78.2,5.2,100.0,100.0,97.7,99.2,Pass,A
+1255,Male,Associate's,Free/Reduced,None,Yes,No,4.8,83.7,7.1,61.2,60.2,47.5,56.3,Pass,D
+1256,Male,Master's,Free/Reduced,None,No,Yes,3.8,85.8,5.0,76.3,73.5,78.2,76.0,Pass,B
+1257,Female,Some College,Free/Reduced,None,No,Yes,2.2,64.5,5.8,54.3,69.3,60.1,61.2,Pass,C
+1258,Male,Some College,Standard,None,No,No,0.5,91.1,6.5,64.2,64.9,58.8,62.7,Pass,C
+1259,Female,High School,Standard,None,Yes,Yes,3.2,68.7,6.7,87.5,61.5,66.2,71.7,Pass,B
+1260,Female,Associate's,Free/Reduced,None,No,No,4.0,73.4,8.6,75.0,79.4,66.4,73.6,Pass,B
+1261,Female,High School,Free/Reduced,Completed,Yes,Yes,8.3,69.3,6.8,100.0,100.0,95.3,98.4,Pass,A
+1262,Female,Master's,Standard,None,No,No,8.5,73.6,6.0,90.1,95.7,87.6,91.1,Pass,A
+1263,Male,Some College,Free/Reduced,Completed,No,No,4.6,86.3,5.9,76.7,84.3,85.2,82.1,Pass,A
+1264,Female,High School,Free/Reduced,None,Yes,Yes,6.9,92.6,5.8,77.9,74.7,67.8,73.5,Pass,B
+1265,Male,High School,Free/Reduced,Completed,Yes,Yes,4.4,74.4,8.5,89.0,85.4,81.2,85.2,Pass,A
+1266,Female,Associate's,Standard,Completed,Yes,Yes,6.7,76.5,7.7,90.6,98.2,99.1,95.9,Pass,A
+1267,Female,High School,Standard,None,Yes,Yes,3.4,88.1,7.6,67.7,66.9,70.2,68.3,Pass,C
+1268,Male,Master's,Standard,None,Yes,Yes,3.2,73.1,5.8,80.2,83.1,70.3,77.9,Pass,B
+1269,Male,Associate's,Standard,None,No,Yes,3.2,82.7,7.3,50.1,56.5,51.8,52.8,Pass,D
+1270,Female,Some College,Standard,Completed,No,No,1.5,91.2,7.9,77.8,80.9,73.6,77.4,Pass,B
+1271,Male,Associate's,Free/Reduced,None,No,Yes,4.7,86.7,4.3,49.6,46.8,50.4,48.9,Pass,E
+1272,Male,Bachelor's,Standard,None,Yes,Yes,4.3,100.0,6.6,94.8,91.6,83.0,89.8,Pass,A
+1273,Female,High School,Standard,None,No,No,3.9,83.3,6.4,73.2,74.8,62.4,70.1,Pass,B
+1274,Female,Bachelor's,Free/Reduced,Completed,No,Yes,0.2,89.1,8.8,84.2,83.3,89.7,85.7,Pass,A
+1275,Male,Associate's,Free/Reduced,None,No,No,7.1,89.3,7.9,82.9,81.9,89.7,84.8,Pass,A
+1276,Female,Associate's,Free/Reduced,None,No,No,4.1,97.3,3.0,61.8,61.6,53.8,59.1,Pass,D
+1277,Male,Bachelor's,Standard,None,Yes,Yes,4.6,80.8,9.4,61.7,64.0,68.1,64.6,Pass,C
+1278,Male,Master's,Standard,Completed,Yes,Yes,7.1,86.0,7.4,94.1,98.4,90.8,94.4,Pass,A
+1279,Female,Some College,Standard,None,Yes,Yes,2.0,87.4,8.3,64.0,63.6,75.5,67.7,Pass,C
+1280,Male,High School,Standard,Completed,No,Yes,5.4,100.0,5.5,92.4,98.8,99.1,96.8,Pass,A
+1281,Male,Bachelor's,Free/Reduced,None,No,No,3.7,91.5,5.7,79.4,85.7,80.2,81.8,Pass,A
+1282,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,6.6,56.3,6.1,68.8,81.4,70.3,73.5,Pass,B
+1283,Female,High School,Standard,Completed,No,No,4.7,82.7,7.1,71.1,75.7,64.7,70.5,Pass,B
+1284,Male,Master's,Standard,None,Yes,No,2.1,78.4,7.3,65.0,79.6,62.3,69.0,Pass,C
+1285,Male,Associate's,Standard,Completed,Yes,Yes,2.4,66.6,5.0,71.4,81.2,69.2,73.9,Pass,B
+1286,Male,High School,Standard,Completed,No,Yes,6.0,60.6,6.2,85.3,83.7,72.3,80.4,Pass,A
+1287,Female,High School,Free/Reduced,Completed,No,Yes,5.5,83.8,8.9,89.7,93.5,90.7,91.3,Pass,A
+1288,Female,Bachelor's,Free/Reduced,Completed,No,Yes,1.8,81.7,6.2,76.1,83.9,78.0,79.3,Pass,B
+1289,Female,Some College,Standard,Completed,No,No,2.1,80.0,9.0,70.7,80.5,78.1,76.4,Pass,B
+1290,Female,High School,Standard,None,No,Yes,3.6,100.0,7.5,91.6,73.5,74.4,79.8,Pass,B
+1291,Female,High School,Standard,None,Yes,Yes,4.8,88.8,6.6,62.3,59.4,64.3,62.0,Pass,C
+1292,Female,Associate's,Standard,Completed,No,Yes,4.3,68.1,7.4,65.1,61.4,61.3,62.6,Pass,C
+1293,Male,Some College,Standard,None,No,No,7.5,86.9,9.0,91.6,83.8,89.1,88.2,Pass,A
+1294,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,3.3,76.4,8.0,82.0,82.6,84.8,83.2,Pass,A
+1295,Male,Master's,Standard,None,No,No,6.2,73.6,4.4,70.6,57.8,60.1,62.8,Pass,C
+1296,Male,Associate's,Free/Reduced,None,No,Yes,2.9,93.6,6.9,53.1,63.3,64.4,60.3,Pass,C
+1297,Female,High School,Standard,None,Yes,Yes,4.7,76.2,7.0,83.3,87.2,68.7,79.8,Pass,B
+1298,Male,Some College,Standard,Completed,No,Yes,2.8,80.3,5.2,82.2,75.6,69.7,75.8,Pass,B
+1299,Female,High School,Standard,Completed,No,Yes,9.6,81.0,3.0,99.7,96.6,100.0,98.7,Pass,A
+1300,Female,High School,Standard,None,Yes,Yes,7.5,89.3,6.3,100.0,100.0,99.8,99.9,Pass,A
+1301,Male,Some College,Standard,None,Yes,No,5.1,87.4,7.9,74.9,74.1,75.9,75.0,Pass,B
+1302,Female,High School,Standard,Completed,No,Yes,5.8,78.1,7.3,96.2,97.9,94.7,96.2,Pass,A
+1303,Male,High School,Free/Reduced,None,No,Yes,3.2,77.5,6.8,53.4,50.9,47.2,50.5,Pass,D
+1304,Female,Bachelor's,Free/Reduced,None,No,Yes,2.1,86.3,7.9,69.6,70.0,71.5,70.3,Pass,B
+1305,Male,Bachelor's,Standard,None,No,No,6.4,74.3,6.3,77.5,80.6,87.1,81.7,Pass,A
+1306,Male,Some College,Free/Reduced,None,No,Yes,1.7,82.6,5.9,49.5,49.4,49.3,49.4,Pass,E
+1307,Female,High School,Free/Reduced,None,Yes,Yes,5.3,81.1,5.2,88.5,82.8,80.4,83.9,Pass,A
+1308,Male,Bachelor's,Standard,Completed,Yes,Yes,3.8,77.9,8.1,75.6,70.5,69.9,72.0,Pass,B
+1309,Female,Bachelor's,Standard,None,No,Yes,3.4,71.9,3.6,82.5,75.0,73.3,76.9,Pass,B
+1310,Male,High School,Standard,Completed,Yes,Yes,2.5,100.0,6.1,86.1,78.3,82.9,82.4,Pass,A
+1311,Female,Bachelor's,Free/Reduced,None,No,Yes,5.8,94.2,6.6,81.1,77.1,78.3,78.8,Pass,B
+1312,Male,Some College,Free/Reduced,None,No,Yes,6.7,99.4,8.6,80.3,78.2,77.6,78.7,Pass,B
+1313,Female,Associate's,Standard,None,No,Yes,8.3,99.1,7.9,88.6,91.6,84.9,88.4,Pass,A
+1314,Female,Bachelor's,Standard,None,Yes,Yes,4.6,100.0,7.2,83.1,86.3,72.3,80.6,Pass,A
+1315,Male,High School,Standard,None,No,Yes,4.5,89.3,8.9,54.7,72.4,72.1,66.4,Pass,C
+1316,Male,Some College,Standard,Completed,No,No,6.1,86.3,7.3,100.0,96.6,100.0,98.9,Pass,A
+1317,Female,Bachelor's,Free/Reduced,None,Yes,Yes,6.7,90.2,5.5,94.0,100.0,92.2,95.4,Pass,A
+1318,Male,Some College,Free/Reduced,None,No,Yes,4.4,89.9,4.8,72.1,66.1,56.0,64.7,Pass,C
+1319,Male,Bachelor's,Free/Reduced,None,No,Yes,4.6,84.8,6.6,74.8,79.8,80.6,78.4,Pass,B
+1320,Female,Associate's,Free/Reduced,None,Yes,No,3.2,79.6,8.3,65.2,69.3,57.3,63.9,Pass,C
+1321,Female,Some College,Standard,Completed,No,No,6.9,82.4,5.7,84.8,94.4,100.0,93.1,Pass,A
+1322,Female,Bachelor's,Free/Reduced,Completed,No,No,9.0,96.9,5.8,100.0,100.0,99.2,99.7,Pass,A
+1323,Male,High School,Free/Reduced,None,Yes,Yes,2.1,100.0,6.6,81.7,78.4,74.7,78.3,Pass,B
+1324,Male,High School,Standard,None,No,Yes,2.8,82.8,7.3,70.8,71.0,64.4,68.7,Pass,C
+1325,Female,Associate's,Standard,Completed,Yes,Yes,2.7,89.1,6.1,75.5,70.7,66.9,71.1,Pass,B
+1326,Male,High School,Standard,None,Yes,Yes,2.8,93.5,7.2,76.3,89.4,75.6,80.4,Pass,A
+1327,Male,High School,Standard,None,No,Yes,7.2,89.0,9.0,95.4,97.6,92.1,95.0,Pass,A
+1328,Male,Bachelor's,Standard,None,Yes,No,3.3,75.0,7.9,68.6,60.5,66.8,65.3,Pass,C
+1329,Male,Master's,Standard,Completed,Yes,Yes,5.5,91.3,7.1,84.5,82.6,83.8,83.6,Pass,A
+1330,Male,Some College,Free/Reduced,Completed,No,Yes,3.5,94.0,7.9,91.6,85.2,84.3,87.1,Pass,A
+1331,Female,Bachelor's,Standard,None,No,Yes,3.2,87.1,7.3,82.9,81.1,87.7,83.9,Pass,A
+1332,Female,Bachelor's,Standard,None,No,Yes,6.9,75.2,6.9,73.9,70.9,67.7,70.8,Pass,B
+1333,Female,High School,Standard,Completed,Yes,Yes,4.7,91.4,6.3,84.4,78.6,84.5,82.5,Pass,A
+1334,Female,Master's,Standard,None,No,Yes,4.5,76.9,7.9,71.0,84.6,78.1,77.9,Pass,B
+1335,Female,Some College,Standard,None,No,Yes,4.0,84.4,6.1,67.5,73.3,51.5,64.1,Pass,C
+1336,Male,Some College,Standard,Completed,No,Yes,3.0,78.3,,76.4,90.4,83.0,83.2,Pass,A
+1337,Female,High School,Standard,None,No,Yes,2.3,74.7,7.2,50.5,50.9,55.3,52.3,Pass,D
+1338,Female,Master's,Standard,None,Yes,Yes,6.5,100.0,6.3,100.0,100.0,95.2,98.4,Pass,A
+1339,Male,Some College,Free/Reduced,Completed,Yes,Yes,2.5,79.5,5.6,57.1,58.9,56.2,57.4,Pass,D
+1340,Male,Some College,Free/Reduced,Completed,No,No,3.2,96.4,7.7,76.7,76.3,66.3,73.1,Pass,B
+1341,Male,Master's,Standard,None,No,Yes,6.8,95.8,8.3,94.6,96.6,96.6,95.9,Pass,A
+1342,Female,Some College,Free/Reduced,None,No,No,3.1,96.2,5.1,51.8,67.9,52.7,57.5,Pass,D
+1343,Male,Some College,Free/Reduced,None,Yes,Yes,6.9,80.8,7.2,73.8,77.7,72.7,74.7,Pass,B
+1344,Male,Associate's,Free/Reduced,None,No,Yes,5.5,86.0,6.9,88.5,82.9,70.3,80.6,Pass,A
+1345,Male,Master's,Standard,None,No,Yes,3.0,100.0,6.4,69.9,78.5,70.0,72.8,Pass,B
+1346,Female,Some College,Free/Reduced,None,No,No,5.6,63.1,7.1,65.7,76.6,54.0,65.5,Pass,C
+1347,Female,Associate's,Standard,Completed,No,No,5.1,79.4,7.8,80.7,88.0,92.9,87.2,Pass,A
+1348,Male,High School,Free/Reduced,None,Yes,Yes,4.0,84.3,8.3,61.0,68.0,66.4,65.1,Pass,C
+1349,Male,Bachelor's,Standard,None,No,Yes,3.6,98.8,6.9,83.3,82.7,75.8,80.6,Pass,A
+1350,Female,Master's,Free/Reduced,None,Yes,Yes,5.7,94.8,6.0,79.0,87.0,69.9,78.6,Pass,B
+1351,Female,Associate's,Standard,None,Yes,Yes,2.7,86.2,6.5,65.3,75.1,62.7,67.7,Pass,C
+1352,Female,Bachelor's,Free/Reduced,None,Yes,Yes,7.1,75.9,7.1,89.6,90.0,88.3,89.3,Pass,A
+1353,Female,Some College,Standard,None,Yes,Yes,4.4,72.6,6.7,67.9,64.4,61.8,64.7,Pass,C
+1354,Male,Master's,Standard,Completed,No,Yes,3.9,75.4,6.4,77.0,83.9,75.6,78.8,Pass,B
+1355,Female,Bachelor's,Standard,None,No,No,4.7,92.2,5.6,88.6,71.0,68.6,76.1,Pass,B
+1356,Female,Bachelor's,Standard,Completed,No,Yes,6.3,80.4,,83.6,87.2,82.5,84.5,Pass,A
+1357,Male,High School,Standard,None,No,Yes,5.4,76.6,6.1,75.1,94.4,80.6,83.4,Pass,A
+1358,Female,Some College,Standard,None,Yes,Yes,5.2,80.8,6.6,91.0,91.5,97.7,93.4,Pass,A
+1359,Male,Bachelor's,Free/Reduced,None,No,No,3.2,100.0,8.3,73.0,79.4,74.6,75.7,Pass,B
+1360,Male,Bachelor's,Standard,None,No,No,7.1,65.1,6.8,78.7,68.3,65.2,70.7,Pass,B
+1361,Female,Bachelor's,Standard,Completed,Yes,Yes,7.6,91.7,6.8,93.7,100.0,100.0,97.9,Pass,A
+1362,Male,Master's,Standard,Completed,Yes,No,1.9,98.8,7.3,74.7,80.8,71.0,75.5,Pass,B
+1363,Female,Some College,Standard,Completed,No,Yes,1.3,95.3,7.9,67.7,70.8,62.7,67.1,Pass,C
+1364,Female,Some College,Standard,Completed,No,Yes,3.6,100.0,,71.6,90.2,85.0,82.3,Pass,A
+1365,Female,High School,Standard,Completed,No,Yes,2.6,98.8,6.3,76.4,69.5,67.6,71.2,Pass,B
+1366,Male,Bachelor's,Standard,Completed,No,Yes,6.8,,8.4,86.7,88.1,100.0,91.6,Pass,A
+1367,Female,Master's,Free/Reduced,None,Yes,Yes,6.9,99.2,6.3,84.3,73.1,76.4,77.9,Pass,B
+1368,Male,Bachelor's,Standard,None,No,Yes,4.2,82.9,6.8,81.6,71.4,83.3,78.8,Pass,B
+1369,Male,Associate's,Free/Reduced,None,No,No,3.5,68.1,5.8,82.7,77.0,75.5,78.4,Pass,B
+1370,Female,High School,Standard,None,No,Yes,5.2,76.8,6.4,74.7,88.5,61.8,75.0,Pass,B
+1371,Male,Some College,Standard,Completed,No,Yes,6.8,60.4,5.9,84.4,89.3,84.9,86.2,Pass,A
+1372,Male,Bachelor's,Standard,Completed,Yes,Yes,4.4,94.5,7.1,91.0,81.9,88.5,87.1,Pass,A
+1373,Male,Some College,Standard,None,No,Yes,4.6,81.9,6.2,71.7,82.6,76.2,76.8,Pass,B
+1374,Male,Bachelor's,Free/Reduced,None,Yes,Yes,5.8,79.3,4.8,80.1,89.8,69.5,79.8,Pass,B
+1375,Male,Some College,Standard,Completed,No,Yes,3.8,99.2,7.1,93.1,87.8,95.5,92.1,Pass,A
+1376,Female,Associate's,Standard,Completed,No,Yes,3.4,85.9,7.9,76.9,64.9,75.4,72.4,Pass,B
+1377,Female,Bachelor's,Free/Reduced,None,Yes,Yes,5.6,58.7,6.1,77.4,68.8,75.7,74.0,Pass,B
+1378,Female,Some College,Standard,None,No,Yes,5.7,88.3,5.7,83.7,86.0,78.3,82.6,Pass,A
+1379,Male,Some College,Free/Reduced,None,Yes,Yes,6.8,70.2,4.7,64.1,76.6,78.7,73.1,Pass,B
+1380,Male,Master's,Standard,Completed,No,Yes,5.8,80.8,5.9,85.5,81.2,84.7,83.8,Pass,A
+1381,Female,High School,Free/Reduced,None,Yes,Yes,4.2,65.7,6.7,55.9,62.7,61.5,60.1,Pass,C
+1382,Female,High School,Free/Reduced,None,Yes,Yes,6.3,87.8,5.7,71.9,74.6,62.6,69.7,Pass,C
+1383,Male,Master's,Standard,Completed,No,Yes,0.0,80.6,5.9,83.5,76.6,71.9,77.3,Pass,B
+1384,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,3.2,74.4,6.4,81.9,74.3,64.6,73.6,Pass,B
+1385,Female,Associate's,Free/Reduced,None,No,No,6.4,77.0,9.1,73.0,90.2,82.7,81.9,Pass,A
+1386,Male,Bachelor's,Free/Reduced,None,Yes,Yes,1.4,,6.9,75.8,85.0,81.8,80.9,Pass,A
+1387,Male,Some College,Free/Reduced,None,Yes,Yes,3.4,80.9,7.7,47.0,58.2,51.7,52.3,Pass,D
+1388,Female,High School,Standard,None,No,Yes,6.2,92.6,6.3,88.4,90.2,81.3,86.6,Pass,A
+1389,Male,Master's,Standard,None,Yes,Yes,2.8,100.0,4.8,63.2,71.7,63.9,66.3,Pass,C
+1390,Male,Associate's,Standard,None,Yes,No,6.0,79.7,5.3,64.3,75.2,70.4,70.0,Pass,C
+1391,Female,Associate's,Standard,None,No,Yes,6.2,80.2,6.2,76.4,84.7,73.9,78.3,Pass,B
+1392,Female,Associate's,Free/Reduced,Completed,Yes,Yes,7.1,76.4,7.6,100.0,98.0,93.0,97.0,Pass,A
+1393,Male,Some College,Free/Reduced,None,No,No,5.5,82.8,8.2,75.8,71.4,70.7,72.6,Pass,B
+1394,Female,High School,Free/Reduced,Completed,No,No,3.3,100.0,7.9,76.8,88.0,70.8,78.5,Pass,B
+1395,Female,Some College,Standard,Completed,Yes,Yes,6.0,73.4,8.0,96.0,99.5,91.3,95.6,Pass,A
+1396,Male,High School,Free/Reduced,Completed,No,No,0.9,84.4,6.4,67.6,64.4,64.3,65.4,Pass,C
+1397,Female,High School,Standard,None,No,Yes,2.5,72.3,4.0,74.5,74.6,73.6,74.2,Pass,B
+1398,Male,Bachelor's,Free/Reduced,None,No,Yes,2.7,79.4,5.6,68.2,83.0,78.2,76.4,Pass,B
+1399,Female,Associate's,Standard,None,No,Yes,0.0,98.3,6.7,73.4,69.4,68.7,70.5,Pass,B
+1400,Male,Associate's,Standard,None,Yes,No,2.6,97.8,7.0,51.9,54.1,53.4,53.1,Pass,D
+1401,Female,Some College,Free/Reduced,Completed,No,Yes,5.4,81.3,6.2,82.3,81.3,82.2,82.0,Pass,A
+1402,Female,Some College,Standard,Completed,No,Yes,1.7,81.1,6.1,68.4,63.2,65.5,65.7,Pass,C
+1403,Male,Associate's,Standard,None,Yes,Yes,0.9,85.0,5.9,50.7,65.1,56.5,57.4,Pass,D
+1404,Male,Bachelor's,Standard,None,Yes,Yes,8.3,69.6,6.8,100.0,95.7,93.2,96.3,Pass,A
+1405,Female,Bachelor's,Free/Reduced,Completed,Yes,Yes,1.1,85.5,7.3,67.5,62.5,64.9,65.0,Pass,C
+1406,Male,High School,Free/Reduced,None,Yes,Yes,3.7,89.6,7.0,67.0,70.8,69.0,68.9,Pass,C
+1407,Female,Master's,Standard,Completed,Yes,Yes,3.8,77.1,8.3,79.3,87.3,85.2,83.9,Pass,A
+1408,Female,Associate's,Standard,Completed,No,No,6.5,67.7,8.0,76.7,82.3,77.9,79.0,Pass,B
+1409,Female,Some College,Free/Reduced,None,Yes,Yes,9.1,77.9,6.3,83.1,91.2,75.6,83.3,Pass,A
+1410,Female,High School,Free/Reduced,Completed,No,Yes,3.0,100.0,7.6,70.8,70.9,59.1,67.0,Pass,C
+1411,Male,Associate's,Standard,None,No,Yes,4.7,85.5,6.5,45.7,54.9,45.1,48.6,Pass,E
+1412,Female,Some College,Free/Reduced,Completed,Yes,Yes,3.0,75.6,8.7,73.5,65.8,63.0,67.4,Pass,C
+1413,Female,Associate's,Standard,None,No,Yes,4.1,77.0,9.1,55.0,75.0,65.5,65.2,Pass,C
+1414,Female,High School,Free/Reduced,None,Yes,Yes,1.1,80.6,5.8,54.4,57.1,49.6,53.7,Pass,D
+1415,Male,Bachelor's,Standard,Completed,Yes,Yes,4.4,77.3,7.0,88.6,98.1,89.3,92.0,Pass,A
+1416,Female,Bachelor's,Standard,None,Yes,Yes,2.8,84.3,8.2,86.3,82.6,87.9,85.6,Pass,A
+1417,Female,Some College,Standard,None,No,Yes,1.6,78.4,5.9,53.3,57.4,51.4,54.0,Pass,D
+1418,Male,Bachelor's,Standard,Completed,Yes,Yes,1.9,71.1,7.6,84.1,86.3,77.6,82.7,Pass,A
+1419,Male,Some College,Free/Reduced,None,No,Yes,8.8,81.7,7.4,89.1,100.0,100.0,96.4,Pass,A
+1420,Female,Bachelor's,Standard,Completed,No,No,1.0,83.5,5.4,73.0,66.0,57.9,65.6,Pass,C
+1421,Female,Associate's,Free/Reduced,Completed,No,Yes,4.6,84.3,7.7,72.9,70.0,61.7,68.2,Pass,C
+1422,Female,Some College,Standard,None,Yes,Yes,4.6,100.0,6.6,76.1,83.6,88.2,82.6,Pass,A
+1423,Male,Bachelor's,Standard,None,No,Yes,8.0,76.7,7.2,88.1,91.4,88.9,89.5,Pass,A
+1424,Female,Bachelor's,Free/Reduced,Completed,No,Yes,4.5,89.1,7.9,85.6,85.3,83.0,84.6,Pass,A
+1425,Female,Bachelor's,Free/Reduced,None,Yes,Yes,4.1,77.5,8.9,67.9,72.1,65.0,68.3,Pass,C
+1426,Male,High School,Free/Reduced,Completed,Yes,Yes,2.4,80.4,6.9,59.8,82.9,72.6,71.8,Pass,B
+1427,Female,High School,Free/Reduced,None,No,No,6.4,71.8,,60.7,70.1,67.7,66.2,Pass,C
+1428,Female,Master's,Standard,None,Yes,Yes,5.4,97.0,7.2,96.3,95.5,91.8,94.5,Pass,A
+1429,Male,Bachelor's,Free/Reduced,None,No,Yes,2.6,80.4,6.0,67.8,68.2,81.5,72.5,Pass,B
+1430,Male,Some College,Standard,Completed,No,Yes,5.8,81.4,6.4,89.0,84.6,76.6,83.4,Pass,A
+1431,Female,High School,Standard,None,Yes,No,6.8,89.4,,69.5,91.4,80.9,80.6,Pass,A
+1432,Female,High School,Free/Reduced,None,Yes,No,8.4,72.4,6.8,84.1,77.5,65.3,75.6,Pass,B
+1433,Female,Associate's,Standard,Completed,Yes,Yes,7.5,83.8,6.3,100.0,100.0,100.0,100.0,Pass,A
+1434,Female,Bachelor's,Standard,None,Yes,Yes,6.4,84.3,7.8,84.5,96.3,94.5,91.7,Pass,A
+1435,Female,Associate's,Free/Reduced,Completed,Yes,No,5.2,,6.6,78.0,87.6,71.9,79.1,Pass,B
+1436,Male,Some College,Free/Reduced,Completed,No,Yes,2.3,83.1,4.5,69.4,74.9,81.3,75.2,Pass,B
+1437,Female,Some College,Standard,Completed,No,Yes,6.2,94.6,6.6,88.3,89.3,84.6,87.4,Pass,A
+1438,Male,Associate's,Standard,None,Yes,No,4.7,85.2,7.2,67.8,67.7,66.1,67.2,Pass,C
+1439,Male,Some College,Standard,Completed,No,Yes,4.2,83.3,7.4,81.6,86.1,84.1,83.9,Pass,A
+1440,Male,High School,Standard,Completed,No,Yes,1.4,95.0,9.0,63.8,84.5,71.0,73.1,Pass,B
+1441,Female,High School,Standard,None,No,Yes,1.2,89.9,8.7,55.8,54.7,60.6,57.1,Pass,D
+1442,Female,High School,Standard,None,No,Yes,1.5,85.7,4.6,78.6,69.9,67.2,71.9,Pass,B
+1443,Female,Master's,Standard,None,Yes,Yes,5.7,94.9,6.7,100.0,100.0,100.0,100.0,Pass,A
+1444,Male,Bachelor's,Standard,Completed,No,Yes,4.9,77.0,8.8,83.5,76.1,80.2,79.9,Pass,B
+1445,Female,Some College,Standard,Completed,No,Yes,5.6,93.8,7.6,73.7,80.3,68.5,74.1,Pass,B
+1446,Male,Master's,Free/Reduced,Completed,No,No,0.0,98.2,7.5,84.4,81.6,74.1,80.1,Pass,A
+1447,Female,Bachelor's,Free/Reduced,None,No,Yes,4.1,82.2,6.7,91.5,93.0,92.5,92.3,Pass,A
+1448,Female,Bachelor's,Free/Reduced,Completed,No,Yes,8.4,76.7,7.5,100.0,100.0,98.4,99.5,Pass,A
+1449,Female,Associate's,Standard,None,No,No,1.0,90.3,4.0,62.6,46.4,57.5,55.5,Pass,D
+1450,Male,Bachelor's,Free/Reduced,None,No,Yes,3.8,92.0,8.6,71.4,66.8,56.1,64.8,Pass,C
+1451,Female,High School,Standard,None,No,Yes,3.7,87.7,7.5,78.7,67.2,82.6,76.2,Pass,B
+1452,Male,Some College,Standard,Completed,No,Yes,1.5,85.9,4.3,85.6,89.5,82.0,85.7,Pass,A
+1453,Male,Some College,Free/Reduced,Completed,No,Yes,4.1,100.0,6.5,74.3,81.3,74.3,76.7,Pass,B
+1454,Male,Bachelor's,Standard,None,No,No,0.0,78.6,6.8,52.1,50.3,52.2,51.5,Pass,D
+1455,Female,Bachelor's,Standard,None,No,Yes,0.0,91.3,7.2,44.2,48.4,47.4,46.7,Pass,E
+1456,Male,High School,Free/Reduced,Completed,Yes,No,3.7,77.2,7.0,58.3,60.9,57.7,59.0,Pass,D
+1457,Male,Master's,Standard,Completed,No,Yes,2.9,63.9,4.0,81.1,84.3,84.9,83.4,Pass,A
+1458,Male,Some College,Standard,Completed,Yes,Yes,5.6,75.5,7.2,89.3,75.2,77.0,80.5,Pass,A
+1459,Female,High School,Standard,Completed,Yes,Yes,3.8,94.8,6.2,73.9,66.2,73.0,71.1,Pass,B
+1460,Male,Master's,Standard,None,No,Yes,2.9,84.0,6.5,55.4,49.6,47.4,50.8,Pass,D
+1461,Female,Associate's,Standard,Completed,No,Yes,8.5,82.9,7.8,89.7,92.5,96.8,93.0,Pass,A
+1462,Female,Associate's,Standard,Completed,No,No,3.0,83.6,7.0,72.6,82.0,73.6,76.1,Pass,B
+1463,Male,Bachelor's,Standard,None,Yes,Yes,2.2,81.8,3.7,55.1,63.6,51.1,56.6,Pass,D
+1464,Female,High School,Standard,Completed,No,Yes,4.5,100.0,6.9,87.5,91.7,87.0,88.7,Pass,A
+1465,Male,Bachelor's,Standard,Completed,Yes,Yes,4.6,85.4,5.7,85.1,76.3,77.0,79.5,Pass,B
+1466,Female,Associate's,Free/Reduced,None,No,Yes,0.0,93.2,9.0,49.7,49.8,52.4,50.7,Pass,D
+1467,Male,High School,Free/Reduced,Completed,No,Yes,3.1,84.7,7.7,85.0,84.0,68.8,79.3,Pass,B
+1468,Female,High School,Free/Reduced,Completed,Yes,No,3.5,80.5,6.4,65.1,74.9,74.8,71.6,Pass,B
+1469,Female,Bachelor's,Free/Reduced,None,No,No,3.1,75.2,8.4,66.4,60.1,53.4,60.0,Pass,D
+1470,Male,Master's,Free/Reduced,None,Yes,Yes,1.7,91.8,6.0,80.8,79.8,82.0,80.9,Pass,A
+1471,Female,Bachelor's,Standard,Completed,Yes,Yes,5.4,87.3,8.8,99.3,98.3,96.1,97.9,Pass,A
+1472,Female,Some College,Free/Reduced,None,No,Yes,3.4,82.1,5.0,61.6,54.1,54.6,56.8,Pass,D
+1473,Female,Some College,Standard,Completed,Yes,No,3.6,83.7,7.5,59.0,67.5,60.1,62.2,Pass,C
+1474,Female,Bachelor's,Standard,None,No,Yes,4.8,100.0,4.3,93.7,90.8,86.4,90.3,Pass,A
+1475,Female,Some College,Free/Reduced,None,Yes,Yes,5.6,78.1,8.8,74.0,77.2,74.8,75.3,Pass,B
+1476,Female,Some College,Free/Reduced,Completed,Yes,Yes,4.1,79.7,6.7,70.0,79.0,70.4,73.2,Pass,B
+1477,Female,Bachelor's,Standard,Completed,Yes,Yes,5.5,76.8,,88.8,86.2,93.5,89.5,Pass,A
+1478,Female,High School,Standard,Completed,No,Yes,2.4,79.3,6.0,76.6,85.6,76.3,79.5,Pass,B
+1479,Female,Some College,Standard,None,No,Yes,3.0,90.5,7.1,65.4,81.1,76.6,74.4,Pass,B
+1480,Male,Associate's,Standard,None,Yes,Yes,6.9,89.8,5.5,78.6,95.0,85.2,86.3,Pass,A
+1481,Female,Some College,Standard,None,No,Yes,6.9,98.1,5.6,90.9,98.3,87.7,92.3,Pass,A
+1482,Male,Some College,Standard,Completed,No,Yes,8.9,86.8,9.1,88.9,95.7,89.2,91.3,Pass,A
+1483,Male,High School,Standard,Completed,No,Yes,3.9,84.8,5.2,65.3,72.9,76.4,71.5,Pass,B
+1484,Male,Some College,Free/Reduced,None,Yes,No,3.8,75.3,6.8,59.1,62.1,48.7,56.6,Pass,D
+1485,Female,High School,Standard,None,Yes,No,0.0,60.3,,34.5,47.4,46.3,42.7,Pass,E
+1486,Female,Bachelor's,Standard,None,No,Yes,7.3,99.9,6.6,97.8,94.8,87.8,93.5,Pass,A
+1487,Female,Bachelor's,Free/Reduced,Completed,No,Yes,7.7,81.4,5.9,96.7,100.0,100.0,98.9,Pass,A
+1488,Male,High School,Free/Reduced,Completed,Yes,Yes,5.7,68.8,8.6,87.3,82.4,84.0,84.5,Pass,A
+1489,Female,Some College,Standard,None,No,Yes,0.0,90.1,4.2,74.9,78.9,81.0,78.3,Pass,B
+1490,Female,High School,Free/Reduced,None,No,Yes,3.1,99.2,9.3,69.5,72.8,65.1,69.1,Pass,C
+1491,Female,Associate's,Standard,None,Yes,No,1.1,74.1,6.6,57.2,64.0,48.6,56.6,Pass,D
+1492,Female,Bachelor's,Standard,None,No,No,3.0,85.0,9.1,88.7,94.4,84.8,89.3,Pass,A
+1493,Male,Master's,Free/Reduced,Completed,Yes,Yes,8.1,84.9,5.0,100.0,94.9,100.0,98.3,Pass,A
+1494,Female,Bachelor's,Standard,None,Yes,No,2.7,96.4,7.8,74.7,66.8,63.9,68.5,Pass,C
+1495,Male,High School,Standard,None,Yes,No,7.5,84.6,5.7,98.9,100.0,93.0,97.3,Pass,A
+1496,Female,Associate's,Standard,None,No,Yes,8.0,100.0,7.3,84.5,100.0,91.6,92.0,Pass,A
+1497,Female,Bachelor's,Standard,None,No,Yes,3.2,75.5,6.0,70.5,74.1,61.4,68.7,Pass,C
+1498,Male,Bachelor's,Standard,None,Yes,Yes,1.0,89.6,6.6,61.6,69.3,62.2,64.4,Pass,C
+1499,Male,Bachelor's,Standard,None,No,No,4.9,77.7,7.0,74.9,70.4,75.9,73.7,Pass,B
+1500,Female,Bachelor's,Free/Reduced,None,No,No,6.9,70.6,6.5,78.2,77.5,75.8,77.1,Pass,B
+1501,Male,Associate's,Free/Reduced,Completed,No,No,3.0,51.8,9.2,73.7,59.8,59.7,64.4,Pass,C
+1502,Male,Associate's,Standard,None,No,Yes,5.1,100.0,6.8,85.5,77.7,87.5,83.5,Pass,A
+1503,Male,Some College,Free/Reduced,None,Yes,Yes,5.2,66.1,,69.0,83.2,60.4,70.9,Pass,B
+1504,Male,Some College,Standard,Completed,No,Yes,2.5,92.0,8.7,69.8,73.2,68.5,70.5,Pass,B
+1505,Female,Bachelor's,Standard,None,Yes,No,5.7,77.6,7.3,76.8,85.8,83.5,82.0,Pass,A
+1506,Male,Some College,Standard,None,No,Yes,7.9,100.0,5.5,100.0,100.0,100.0,100.0,Pass,A
+1507,Male,Master's,Standard,None,Yes,No,6.2,94.1,5.9,85.5,85.0,77.5,82.7,Pass,A
+1508,Male,High School,Standard,Completed,Yes,Yes,5.2,90.1,8.5,86.0,91.2,88.7,88.6,Pass,A
+1509,Female,Associate's,Free/Reduced,None,Yes,Yes,3.5,78.4,8.2,63.3,66.9,60.5,63.6,Pass,C
+1510,Male,Associate's,Free/Reduced,None,Yes,No,6.3,72.6,8.1,67.6,70.4,70.1,69.3,Pass,C
+1511,Male,High School,Free/Reduced,None,Yes,Yes,6.0,96.9,6.8,60.5,68.7,64.7,64.7,Pass,C
+1512,Female,Bachelor's,Free/Reduced,Completed,No,Yes,4.3,99.4,8.3,76.6,89.7,84.9,83.7,Pass,A
+1513,Male,Master's,Standard,None,Yes,Yes,7.4,69.5,6.4,89.9,90.9,87.6,89.4,Pass,A
+1514,Male,High School,Standard,None,Yes,No,6.7,79.2,7.7,90.4,93.1,96.2,93.2,Pass,A
+1515,Female,High School,Standard,None,Yes,No,3.1,59.8,5.8,60.2,68.4,64.6,64.4,Pass,C
+1516,Female,Associate's,Standard,None,Yes,Yes,6.8,100.0,7.6,90.3,88.1,88.4,88.9,Pass,A
+1517,Male,High School,Standard,None,No,Yes,10.6,96.2,7.8,92.2,98.5,100.0,96.9,Pass,A
+1518,Male,Master's,Standard,None,No,Yes,3.4,74.7,6.1,44.7,48.3,49.0,47.3,Pass,E
+1519,Female,Some College,Standard,None,No,Yes,6.0,100.0,6.6,94.3,93.5,81.0,89.6,Pass,A
+1520,Female,High School,Standard,Completed,No,Yes,5.3,86.6,5.8,76.8,88.6,69.8,78.4,Pass,B
+1521,Female,High School,Free/Reduced,None,Yes,Yes,6.6,89.9,7.4,84.7,100.0,85.5,90.1,Pass,A
+1522,Male,Bachelor's,Standard,None,Yes,Yes,4.7,70.5,4.6,62.7,78.5,56.3,65.8,Pass,C
+1523,Male,Some College,Free/Reduced,None,Yes,Yes,2.7,100.0,7.1,81.6,80.3,72.9,78.3,Pass,B
+1524,Female,High School,Standard,None,Yes,Yes,6.7,81.1,8.3,71.6,78.2,61.1,70.3,Pass,B
+1525,Female,Associate's,Standard,Completed,No,No,6.1,89.1,8.8,92.1,82.0,87.1,87.1,Pass,A
+1526,Female,Associate's,Free/Reduced,None,Yes,No,2.1,72.5,5.1,57.1,57.6,52.4,55.7,Pass,D
+1527,Female,Some College,Standard,Completed,No,Yes,3.5,74.0,5.0,81.2,85.1,73.5,79.9,Pass,B
+1528,Female,Some College,Standard,None,No,Yes,3.3,81.3,5.2,54.8,58.8,48.8,54.1,Pass,D
+1529,Female,Bachelor's,Free/Reduced,None,Yes,Yes,7.1,100.0,7.0,100.0,100.0,100.0,100.0,Pass,A
+1530,Female,Bachelor's,Standard,Completed,Yes,No,4.3,73.9,6.7,72.3,85.8,72.8,77.0,Pass,B
+1531,Female,High School,Standard,None,Yes,Yes,8.0,70.5,5.0,74.7,84.4,84.3,81.1,Pass,A
+1532,Male,Some College,Free/Reduced,None,Yes,No,3.7,85.8,8.0,44.4,55.1,54.2,51.2,Pass,D
+1533,Male,High School,Free/Reduced,None,Yes,No,6.0,73.5,5.8,71.6,76.6,73.1,73.8,Pass,B
+1534,Male,Bachelor's,Free/Reduced,Completed,No,Yes,3.7,76.4,6.8,75.4,73.2,65.3,71.3,Pass,B
+1535,Female,Some College,Free/Reduced,Completed,No,Yes,2.6,78.2,6.7,64.4,71.4,53.5,63.1,Pass,C
+1536,Female,Some College,Standard,None,Yes,Yes,6.8,82.0,8.6,72.0,85.6,62.7,73.5,Pass,B
+1537,Male,High School,Standard,None,No,No,5.6,86.4,6.4,60.8,75.5,71.8,69.3,Pass,C
+1538,Male,Associate's,Standard,None,No,Yes,3.4,73.3,7.8,77.3,81.5,85.0,81.3,Pass,A
+1539,Female,Some College,Free/Reduced,Completed,Yes,Yes,2.5,87.8,3.3,61.0,64.0,51.7,58.9,Pass,D
+1540,Female,Some College,Standard,Completed,Yes,Yes,1.9,85.4,7.3,78.8,84.2,64.5,75.8,Pass,B
+1541,Male,High School,Free/Reduced,None,No,Yes,8.1,74.3,6.2,93.1,89.4,84.1,88.9,Pass,A
+1542,Female,Some College,Free/Reduced,None,Yes,Yes,8.1,82.3,8.0,64.3,74.2,79.3,72.6,Pass,B
+1543,Male,High School,Standard,Completed,Yes,Yes,6.1,90.2,6.5,90.0,98.9,94.0,94.3,Pass,A
+1544,Male,Associate's,Free/Reduced,None,Yes,No,5.5,92.1,9.5,91.8,100.0,92.8,94.8,Pass,A
+1545,Male,Associate's,Standard,Completed,Yes,Yes,3.9,86.1,8.5,78.2,81.0,83.3,80.8,Pass,A
+1546,Female,Bachelor's,Standard,None,No,No,6.4,78.7,7.9,80.6,94.0,92.7,89.1,Pass,A
+1547,Female,High School,Standard,None,No,Yes,4.9,72.6,5.5,90.8,97.2,92.9,93.6,Pass,A
+1548,Male,Some College,Standard,Completed,Yes,Yes,5.3,92.1,5.1,100.0,93.4,80.1,91.2,Pass,A
+1549,Female,Bachelor's,Standard,None,Yes,Yes,8.9,72.3,5.7,100.0,87.9,76.6,88.2,Pass,A
+1550,Female,High School,Free/Reduced,Completed,No,Yes,4.4,89.8,6.1,84.9,76.8,73.2,78.3,Pass,B
+1551,Male,Associate's,Standard,None,Yes,Yes,2.9,85.5,7.2,71.4,87.4,63.3,74.0,Pass,B
+1552,Female,Bachelor's,Standard,None,Yes,Yes,4.5,92.8,7.2,78.3,83.3,85.9,82.5,Pass,A
+1553,Male,Some College,Standard,None,Yes,Yes,3.8,82.0,4.4,59.8,75.2,71.3,68.7,Pass,C
+1554,Male,High School,Standard,None,No,Yes,5.6,81.8,5.6,80.5,91.2,85.7,85.8,Pass,A
+1555,Male,High School,Standard,None,Yes,No,4.6,83.4,7.5,69.3,71.8,66.3,69.2,Pass,C
+1556,Male,Bachelor's,Standard,None,No,No,4.9,97.7,,97.6,98.0,82.0,92.5,Pass,A
+1557,Male,Some College,Free/Reduced,None,No,Yes,0.4,68.9,6.8,36.0,52.6,45.5,44.7,Pass,E
+1558,Male,Some College,Standard,None,No,No,5.3,69.6,7.3,59.7,55.6,62.0,59.1,Pass,D
+1559,Male,Bachelor's,Standard,None,Yes,Yes,6.2,100.0,6.3,100.0,98.8,95.1,98.0,Pass,A
+1560,Male,Master's,Standard,None,No,Yes,6.0,74.5,6.3,86.0,80.3,75.2,80.5,Pass,A
+1561,Male,Bachelor's,Standard,Completed,Yes,Yes,7.9,67.4,6.2,100.0,100.0,100.0,100.0,Pass,A
+1562,Male,Bachelor's,Standard,Completed,No,No,1.1,79.6,7.1,66.0,65.5,61.1,64.2,Pass,C
+1563,Female,High School,Standard,None,No,Yes,4.2,93.4,7.5,56.7,66.8,75.2,66.2,Pass,C
+1564,Male,High School,Free/Reduced,None,No,Yes,3.0,82.1,6.5,66.5,62.4,57.9,62.2,Pass,C
+1565,Male,Associate's,Standard,Completed,No,Yes,4.7,70.4,4.9,74.7,83.1,69.6,75.8,Pass,B
+1566,Male,Some College,Free/Reduced,None,Yes,No,1.6,93.8,7.5,72.2,75.4,53.1,66.9,Pass,C
+1567,Male,High School,Standard,None,No,No,0.3,100.0,6.6,57.4,69.4,56.1,60.9,Pass,C
+1568,Male,Some College,Standard,None,Yes,Yes,4.5,78.2,8.4,71.2,81.7,77.3,76.7,Pass,B
+1569,Female,Bachelor's,Standard,None,No,Yes,4.4,95.4,6.2,96.1,91.0,81.2,89.4,Pass,A
+1570,Female,Master's,Standard,Completed,No,Yes,7.2,80.6,5.6,94.7,90.2,89.1,91.3,Pass,A
+1571,Female,Master's,Free/Reduced,Completed,Yes,Yes,6.2,84.4,5.5,99.3,100.0,90.9,96.7,Pass,A
+1572,Female,Some College,Standard,None,Yes,Yes,1.5,68.2,7.0,60.6,77.0,66.5,68.0,Pass,C
+1573,Female,High School,Free/Reduced,None,No,Yes,2.6,84.0,6.8,60.9,73.1,59.6,64.5,Pass,C
+1574,Female,High School,Free/Reduced,None,No,Yes,4.5,91.0,7.4,67.1,75.9,77.6,73.5,Pass,B
+1575,Male,High School,Standard,None,No,Yes,3.2,84.2,7.9,63.3,66.1,54.2,61.2,Pass,C
+1576,Male,Bachelor's,Standard,None,No,Yes,1.4,92.8,6.2,86.7,87.3,98.2,90.7,Pass,A
+1577,Female,Master's,Standard,Completed,No,No,7.3,92.1,6.4,100.0,100.0,100.0,100.0,Pass,A
+1578,Female,Master's,Standard,None,No,Yes,2.5,100.0,6.5,75.7,75.3,61.9,71.0,Pass,B
+1579,Male,Bachelor's,Standard,None,No,Yes,5.6,93.6,7.2,88.0,94.4,92.0,91.5,Pass,A
+1580,Female,Bachelor's,Free/Reduced,None,No,Yes,3.4,81.9,8.3,59.8,61.4,66.8,62.7,Pass,C
+1581,Male,High School,Standard,Completed,No,No,6.5,68.8,7.3,74.1,97.0,84.0,85.0,Pass,A
+1582,Male,High School,Free/Reduced,None,Yes,No,5.0,90.7,7.6,46.9,40.9,66.0,51.3,Pass,D
+1583,Male,Bachelor's,Standard,None,No,Yes,4.6,89.7,6.3,77.7,76.5,79.0,77.7,Pass,B
+1584,Male,Associate's,Free/Reduced,Completed,Yes,Yes,3.2,75.9,8.6,75.0,72.3,68.1,71.8,Pass,B
+1585,Female,Bachelor's,Standard,None,No,Yes,8.1,89.3,4.3,91.8,100.0,100.0,97.3,Pass,A
+1586,Female,Associate's,Standard,None,No,Yes,5.1,95.6,6.2,69.8,71.7,78.7,73.4,Pass,B
+1587,Male,Associate's,Standard,Completed,No,No,0.9,88.5,7.9,82.5,86.1,68.7,79.1,Pass,B
+1588,Male,High School,Standard,None,No,No,2.8,78.4,6.5,66.5,72.4,52.4,63.8,Pass,C
+1589,Male,High School,Standard,None,Yes,No,6.7,100.0,5.1,69.0,65.1,75.4,69.8,Pass,C
+1590,Male,Associate's,Standard,None,No,No,4.0,98.6,7.0,63.5,72.1,71.9,69.2,Pass,C
+1591,Female,Associate's,Standard,None,No,Yes,7.4,79.7,6.3,83.2,87.9,81.3,84.2,Pass,A
+1592,Male,Master's,Standard,None,Yes,No,3.7,85.3,8.0,67.7,87.6,67.7,74.3,Pass,B
+1593,Male,Some College,Standard,Completed,Yes,No,2.6,85.9,4.9,72.8,86.9,79.8,79.8,Pass,B
+1594,Female,Bachelor's,Standard,Completed,No,Yes,5.8,84.7,8.4,83.7,95.3,80.3,86.4,Pass,A
+1595,Female,Associate's,Free/Reduced,None,Yes,Yes,5.3,63.6,5.7,33.6,46.4,41.9,40.6,Pass,E
+1596,Female,Associate's,Standard,Completed,No,Yes,6.3,85.9,6.1,81.1,86.1,88.5,85.3,Pass,A
+1597,Male,Bachelor's,Standard,None,No,Yes,7.6,73.1,7.6,89.3,80.3,78.5,82.7,Pass,A
+1598,Female,High School,Standard,None,Yes,No,9.1,100.0,6.0,100.0,100.0,92.1,97.4,Pass,A
+1599,Female,Master's,Standard,None,No,No,7.9,89.9,6.7,92.6,100.0,100.0,97.5,Pass,A
